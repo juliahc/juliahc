@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juliahc" alt="juliahc" /></a> </p>
 
-- 🔭 I’m currently working on **Invoport, SL**
+- 🔭 I’m currently working on **Geprom, part of Telefonica Tech**
 
 - 👨‍💻 All of my projects are available at [https://juliahc.com/](https://juliahc.com/)
 
